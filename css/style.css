@@ -2809,7 +2809,7 @@ h6 { font-size: 16px; }
 	.mouse-cursor{display: none;}
 }
 @media (max-width: 768px) {
-	.devman_tm_hero .right {display: flex; flex-direction: column; gap: 100px;}
+		.devman_tm_hero .right .image .main{opacity: 0.5}
 	.devman_tm_features .features_list ul{margin: 0px;}
 	.devman_tm_features .features_list ul li{width: 100%;padding-left: 0px;}
 	.devman_tm_service .service_list ul li{width: 100%;}
